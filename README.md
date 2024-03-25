@@ -11,6 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MikeyDeei/azure-network-protocols)
   - [Inspecting Network Traffic in Azure](https://github.com/MikeyDeei/Inspecting-Network-Traffic-in-Azure)
   - [Understanding DNS in Azure](https://github.com/MikeyDeei/Understanding-DNS-in-Azure)
+  - [Understanding File Permissions in Azure](https://github.com/MikeyDeei/Understanding-File-Permissions-in-Azure)
 
 <h2>Connect with me:</h2>
 
