@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael, an <a href="https://linkedin.com/in/Michael-Tai-Davis">IT Professional
+<h1>Hi, I'm Michael, an <a href="https://linkedin.com/in/Michael-Tai-Davis">IT/Cybersecurity Professional
 
 <h2> Information Technology Projects:</h2>
 
