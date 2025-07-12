@@ -5,11 +5,11 @@
 <h2>👨🏻‍💻 🌎 🔐 CyberSecurityProjects 🔐 🌎 👨🏻‍💻 </h2>
 
 - <b> 🐝 Microsoft Sentinel (SIEM) / Honey Net 🍯  </b>
-  - [Creating a vulnerable/weak network within Azure on purpose to attract hackers and generate live traffic to analyze the data. With the data we make live attack maps.](xxxxxxxxxxxxxx)
+  - [Creating a vulnerable/weak network within Azure on purpose to attract hackers and generate live traffic to analyze the data. With the data we make live attack maps.](https://github.com/MikeyDeei/Honey-Net))
     
-  - [ Continuing with the HoneyNet lab: Running different queries (KQL) in in Sentinel's Log Analytics Workspaces to research our data.  ](xxxxxxxxxxxxxxxx)
+  - [ Continuing with the HoneyNet lab: Running different queries (KQL) in in Sentinel's Log Analytics Workspaces to research our data.  ](https://github.com/MikeyDeei/Logging)
     
-  - [This is a before and after look at the honeynet after 24 hours of hardening the enviroment](xxxxxxxxxxxx)
+  - [This is a before and after look at the honeynet after 24 hours of hardening the enviroment](https://github.com/MikeyDeei/Secure_Cloud)
 
 <h2> 👨🏻‍💻  Information Technology Projects👨🏻‍💻 </h2>
 
