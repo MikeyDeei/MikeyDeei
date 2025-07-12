@@ -9,7 +9,7 @@
     
   - [ Continuing with the HoneyNet lab: Running different queries (KQL) in in Sentinel's Log Analytics Workspaces to research our data.  ](https://github.com/MikeyDeei/Logging)
     
-  - [This is a before and after look at the honeynet after 24 hours of hardening the enviroment](https://github.com/MikeyDeei/Secure_Cloud)
+  - [This is a before and after look at the honeynet after 24 hours of hardening the enviroment](https://github.com/MikeyDeei/Secure-Cloud)
 
 <h2> 👨🏻‍💻  Information Technology Projects👨🏻‍💻 </h2>
 
