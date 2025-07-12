@@ -1,6 +1,17 @@
-<h1>Hi, I'm Michael, an <a href="https://linkedin.com/in/Michael-Tai-Davis">IT/Cybersecurity Professional
+<h1>Hi, I'm Michael!
+  
+  <a href="https://linkedin.com/in/Michael-Tai-Davis">Cybersecurity Professional
 
-<h2> Information Technology Projects:</h2>
+<h2>👨🏻‍💻 🌎 🔐 CyberSecurityProjects 🔐 🌎 👨🏻‍💻 </h2>
+
+- <b> 🐝 Microsoft Sentinel (SIEM) / Honey Net 🍯  </b>
+  - [Creating a vulnerable/weak network within Azure on purpose to attract hackers and generate live traffic to analyze the data. With the data we make live attack maps.](xxxxxxxxxxxxxx)
+    
+  - [ Continuing with the HoneyNet lab: Running different queries (KQL) in in Sentinel's Log Analytics Workspaces to research our data.  ](xxxxxxxxxxxxxxxx)
+    
+  - [This is a before and after look at the honeynet after 24 hours of hardening the enviroment](xxxxxxxxxxxx)
+
+<h2> 👨🏻‍💻  Information Technology Projects👨🏻‍💻 </h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/MikeyDeei/osticket-prereqs)
